@@ -1,0 +1,55 @@
+[
+    [
+        {
+            "text": "EXPIRES",
+            "font": "bold 10pt Helvetica",
+            "color": "#FFFFFF",
+            "align": "center",
+            "x": 160,
+            "y": 10,
+            "canBlink": true,
+            "index": 0,
+            "blink": true,
+            "dur": 239
+        },
+        {
+            "text": "2:41PM Aug 6 2014",
+            "font": "bold 18pt Helvetica",
+            "align": "center",
+            "color": "#FFFFFF",
+            "x": 160,
+            "y": 25,
+            "canBlink": true,
+            "index": 0,
+            "blink": true,
+            "dur": 239
+        },
+        {
+            "text": "U8",
+            "font": "bold 30pt Helvetica",
+            "color": "black",
+            "index": 0,
+            "align": "center",
+            "x": 246,
+            "y": 319
+        },
+        {
+            "text": "A",
+            "font": "bold 72pt Helvetica",
+            "color": "#000000",
+            "align": "left",
+            "x": 20,
+            "y": 280,
+            "index": 0
+        },
+        {
+            "text": "Adult 2-Hour",
+            "font": "bold 18pt Helvetica",
+            "color": "#000000",
+            "align": "left",
+            "x": 10,
+            "y": 370,
+            "index": 0
+        }
+    ]
+]

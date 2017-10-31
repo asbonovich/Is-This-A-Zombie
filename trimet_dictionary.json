@@ -1,0 +1,44 @@
+{
+    "city.png": {
+        "x": 0,
+        "y": 0,
+        "width": 707,
+        "height": 289
+    },
+    "birds.png": {
+        "x": 0,
+        "y": 289,
+        "width": 642,
+        "height": 89
+    },
+    "background.png": {
+        "x": 0,
+        "y": 378,
+        "width": 433,
+        "height": 251
+    },
+    "trees.png": {
+        "x": 0,
+        "y": 629,
+        "width": 344,
+        "height": 137
+    },
+    "bus.png": {
+        "x": 0,
+        "y": 766,
+        "width": 320,
+        "height": 400
+    },
+    "button.png": {
+        "x": 0,
+        "y": 1166,
+        "width": 81,
+        "height": 81
+    },
+    "pressedbutton.png": {
+        "x": 433,
+        "y": 533,
+        "width": 95,
+        "height": 96
+    }
+}
